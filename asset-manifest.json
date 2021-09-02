@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/allbridg/static/css/main.6c047e84.chunk.css",
+    "main.js": "/allbridg/static/js/main.4fb6cd0a.chunk.js",
+    "main.js.map": "/allbridg/static/js/main.4fb6cd0a.chunk.js.map",
+    "runtime-main.js": "/allbridg/static/js/runtime-main.3e173a0d.js",
+    "runtime-main.js.map": "/allbridg/static/js/runtime-main.3e173a0d.js.map",
+    "static/js/2.76dabae1.chunk.js": "/allbridg/static/js/2.76dabae1.chunk.js",
+    "static/js/2.76dabae1.chunk.js.map": "/allbridg/static/js/2.76dabae1.chunk.js.map",
+    "index.html": "/allbridg/index.html",
+    "static/css/main.6c047e84.chunk.css.map": "/allbridg/static/css/main.6c047e84.chunk.css.map",
+    "static/js/2.76dabae1.chunk.js.LICENSE.txt": "/allbridg/static/js/2.76dabae1.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/allbridg/static/media/solana.849b9972.svg",
+    "static/media/HAPI_Prize.af425b8a.png": "/allbridg/static/media/HAPI_Prize.af425b8a.png",
+    "static/media/Velas_Prize.b32dba53.png": "/allbridg/static/media/Velas_Prize.b32dba53.png",
+    "static/media/Footer.css": "/allbridg/static/media/twitter.8a578754.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e173a0d.js",
+    "static/js/2.76dabae1.chunk.js",
+    "static/css/main.6c047e84.chunk.css",
+    "static/js/main.4fb6cd0a.chunk.js"
+  ]
+}
